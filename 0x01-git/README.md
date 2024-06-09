@@ -1,1 +1,1 @@
-The task is all about mastering git. 
+The task is all about mastering gi. 
